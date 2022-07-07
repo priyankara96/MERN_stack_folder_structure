@@ -2,7 +2,7 @@
 
 ## frontend :
 
-- npx create-react-app frontend / npm init react-app my-app
+- npx create-react-app frontend / npm init react-app frontend
 - npm i react-router-dom@5.2.0
 - npm i axios
 - npm i bootstrap
